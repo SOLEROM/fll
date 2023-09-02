@@ -1,10 +1,18 @@
 # by build model
 
+
+## 201 build sequences
+
+* [lifting ![](./201_build/liftting/image-10.png)](./201_build/liftting/readme.md)
+* [grabAndLift ![](./201_build/grabAndLift/image.png)](./201_build/grabAndLift/readme.md)
+
 ## 301 prime units
 
 * [intro ![](./301_primeUnits/01_intro/image.png)](./301_primeUnits/01_intro/readme.md)
 * [hopper ![](./301_primeUnits/02_hopper/hop_mes.png)](./301_primeUnits/02_hopper/readme.md)
 * [cleanUp ![](./301_primeUnits/03_cleanUp/build1.png)](./301_primeUnits/03_cleanUp/readme.md)
+    * [xxx ![grabbers](./201_build/grabbers/image.png)](./201_build/grabbers/readme.md)
+    
 * [fixme ![](./301_primeUnits/04_brokenFix/image.png)](./301_primeUnits/04_brokenFix/readme.md)
 * [proth ![](./301_primeUnits/05_prothDesign/image-1.png)](./301_primeUnits/05_prothDesign/readme.md)
 * [qualityCheck_A ![](./301_primeUnits/06_qualityCheck_A/image-2.png)](./301_primeUnits/06_qualityCheck_A/readme.md)
@@ -38,13 +46,15 @@
 * [xxx ![](./402_challenges/3_transformers/atlabTransf/image.png)](./402_challenges/3_transformers/atlabTransf/readme.md)
 
 
+## build for fun
 
-* [xxx ![](./)](./)
-* [xxx ![](./)](./)
-* [xxx ![](./)](./)
-* [xxx ![](./)](./)
-* [xxx ![](./)](./)
-* [xxx ![](./)](./)
+* [windTorbine ![](./202_buildForFun/windTorbine/image.png)](./202_buildForFun/windTorbine/readme.md)
+* [helicopter ![](./202_buildForFun/helicopter/image.png)](./202_buildForFun/helicopter/readme.md)
+* [gymnastBot ![](./202_buildForFun/gymnastBot/image-1.png)](./202_buildForFun/gymnastBot/readme.md)
+* [2dArtDrawing ![](./202_buildForFun/2dArtDrawing/image.png)](./202_buildForFun/2dArtDrawing/readme.md)
+
+
+
 * [xxx ![](./)](./)
 * [xxx ![](./)](./)
 * [xxx ![](./)](./)
