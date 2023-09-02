@@ -1,11 +1,28 @@
 # spike
 
-LEGO® Education SPIKE Essential
-LEGO® Education SPIKE Prime
+* trainings by years [2023](./2023.md)
+* by [build model](./byBuildModel.md)
 
-https://education.lego.com/en-us/lessons/
+## by build
 
-https://education.lego.com/en-us/lessons/?products=SPIKE%E2%84%A2+Prime+Set&grades=Grades+6-8
+# training map
 
-## trainings
-* [2023](./2023.md)
+## intro
+* [101 basic](./101_basic/readme.md) - hw controllers and basic logic
+
+## simple logo builds
+* [201 simple build](./201_build/readme.md)
+* [202 build for fun](./202_buildForFun/readme.md)
+* [204 mechanics](./204_mechanics/readme.md)
+
+## lego official learn units
+* [301 prime units](./301_primeUnits/readme.md) - basic lego prime units converted to icon blocks
+* [302 prime extensions](./302_primeExpansion/readme.md)
+
+
+## campaign
+* [campaign by challenges](./402_challenges/readme.md)
+
+
+## advanced
+* [500 advanced builds](./500_advanced/readme.md)
