@@ -3,8 +3,6 @@
 * trainings by years [2023](./2023.md)
 * by [build model](./byBuildModel.md)
 
-## by build
-
 # training map
 
 ## intro

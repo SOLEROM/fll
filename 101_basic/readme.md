@@ -36,6 +36,9 @@
 * [distanceTest](./sensorsTests/distanceTest.md)
 * [moveAccError](./sensorsTests/moveAccError.md)
 
+## display
+* [display](./4_display/readme.md)
+
 ## TODO 
 
 missing in blocks:

@@ -8,8 +8,9 @@
 
 ## 301 prime units
 
-* [intro ![](./301_primeUnits/01_intro/image.png)](./301_primeUnits/01_intro/readme.md)
-* [hopper ![](./301_primeUnits/02_hopper/hop_mes.png)](./301_primeUnits/02_hopper/readme.md)
+
+* [hopper ![](./301_primeUnits/01_hopper/hop_mes.png)](./301_primeUnits/01_hopper/readme.md)
+* [dancer ![](./301_primeUnits/02_dancer/image.png)](./301_primeUnits/02_dancer/readme.md)
 * [cleanUp ![](./301_primeUnits/03_cleanUp/build1.png)](./301_primeUnits/03_cleanUp/readme.md)
     * [xxx ![grabbers](./201_build/grabbers/image.png)](./201_build/grabbers/readme.md)
     

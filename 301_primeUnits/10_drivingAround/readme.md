@@ -1,21 +1,24 @@
 # Driving Around
 
-* https://education.lego.com/en-gb/lessons/prime-competition-ready/training-camp-1-driving-around/
+* [unit](https://education.lego.com/en-gb/lessons/prime-competition-ready/training-camp-1-driving-around/)
 
 
 ## build
 
 ![Alt text](image.png)
+* [1](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt06873e1b438a0d7e/5ec8e66f033ad5045f4c79a6/driving-base-bi-pdf-book1of1.pdf?locale=en-gb)
 
 ## code per task
 
-### drive in a square
+### (1) drive in a square
 
 ![Alt text](image-1.png)
 
 TBD
 
-### program pseudocode
+** [test move accu error](../../101_basic/sensorsTests/moveAccError.md)
+
+### (2) program pseudocode
 
 Develop your programming skills by writing the pseudocode first.
 
