@@ -4,6 +4,8 @@
 
 * The team will identify how lights and sounds are used to make a museum exhibit interactive.
 
+* green screen https://www.youtube.com/watch?v=A0h_BVLRSeI
+
 ## Activity 1  
 * Do Code
 

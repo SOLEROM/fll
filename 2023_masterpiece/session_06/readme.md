@@ -1,7 +1,9 @@
 # 06 Visual Effects
 
-* 
 * a vehicle with a camera.
+
+* Camera Movement https://www.youtube.com/watch?v=WB22q-aKY-E&t=138s
+
 
 
 ## intro
