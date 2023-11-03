@@ -31,5 +31,5 @@
 * [move1](../501_reverseEng/Quapod/readme.md)
 * [grab1](../201_build/grabbers/readme.md) + with push button 
     * [lift](../201_build/liftting/readme.md)
-* [grab and lift2](../201_build/liftting/readme.md)
+* [grab and lift2](../201_build/grabAndLift/readme.md)
 
