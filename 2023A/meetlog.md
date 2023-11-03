@@ -29,5 +29,7 @@
 * rev
 * motivation : https://www.youtube.com/watch?v=P5GOXGAt4Kw
 * [move1](../501_reverseEng/Quapod/readme.md)
-* [grab and lift1](../201_build/liftting/readme.md)
+* [grab1](../201_build/grabbers/readme.md) + with push button 
+    * [lift](../201_build/liftting/readme.md)
+* [grab and lift2](../201_build/liftting/readme.md)
 
