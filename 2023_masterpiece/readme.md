@@ -7,7 +7,7 @@
 ## general
 * [coreValues](./values.md)
 * [groupRoles](./rolles/readme.md)
-* [year story]()
+* [year story](../2023_mentors/FLL_Explore%20EN_MASTERPIECE_HEBREW%20(1).pdf)
 
 
 ## year sessions

@@ -33,3 +33,11 @@
     * [lift](../201_build/liftting/readme.md)
 * [grab and lift2](../201_build/grabAndLift/readme.md)
 
+
+### meet 7
+* [finish quapod](../501_reverseEng/Quapod/readme.md)
+* unboxing year challenge and read the story
+
+### meet 8
+* 
+ 
