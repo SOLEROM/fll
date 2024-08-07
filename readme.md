@@ -24,3 +24,9 @@
 
 ## advanced
 * [500 advanced builds](./500_advanced/readme.md)
+
+## builds
+[ <img src="./01_builds/lizard1/image.png" alt="alt text" width="200">](./01_builds/lizard1/readme.md)
+
+
+[ <img src="./01_builds/lizard2/image.png" alt="alt text" width="200">](./01_builds/lizard2/readme.md)
