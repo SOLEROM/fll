@@ -1,7 +1,13 @@
-# spike
+# FLL
 
-* trainings by years [2023](./2023.md)
-* by [build model](./byBuildModel.md)
+* [motivations](./00_motivation/readme.md)
+* [FLL values](./01_fllVal/readme.md)
+
+
+## year plan and log
+* [2023](./2023/readme.md)  
+* [2024](./2024/readme.md)
+
 
 # training map
 
@@ -17,16 +23,9 @@
 * [301 prime units](./301_primeUnits/readme.md) - basic lego prime units converted to icon blocks
 * [302 prime extensions](./302_primeExpansion/readme.md)
 
-
 ## campaign
 * [campaign by challenges](./402_challenges/readme.md)
-
 
 ## advanced
 * [500 advanced builds](./500_advanced/readme.md)
 
-## builds
-[ <img src="./01_builds/lizard1/image.png" alt="alt text" width="200">](./01_builds/lizard1/readme.md)
-
-
-[ <img src="./01_builds/lizard2/image.png" alt="alt text" width="200">](./01_builds/lizard2/readme.md)
