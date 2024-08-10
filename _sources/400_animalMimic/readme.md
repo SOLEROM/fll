@@ -1,4 +1,4 @@
-# 400 animalMimic
+# 400 AnimalMimic
 
 
 [ ![](./lizard1/icon.png) ](./lizard1/readme.md)
