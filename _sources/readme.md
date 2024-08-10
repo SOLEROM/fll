@@ -17,7 +17,7 @@
 
 ├── [200_subs](./200_subs/readme.md)
 
-├── [201_transmiosions](./201_transmiosions/readme.md)
+├── [201_transmiosions](./201_transmissions/readme.md)
 
 ├── [202_driving](./202_driving/readme.md)
 
