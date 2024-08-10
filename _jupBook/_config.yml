@@ -42,6 +42,9 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  html_static_path: []  # Ensures no custom static path is defined
+  html_extra_path: []   # Ensures no extra static files are moved
+
 
 html_theme_options:
-  color_theme: "light"  # Set the default color theme to light
+  color_theme: "dark"  # Set the default color theme to light

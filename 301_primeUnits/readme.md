@@ -1,4 +1,4 @@
-# spike kit lessons
+# 301 SpikeLessons
 
 * [01 hooper](./01_hopper/readme.md)
 * [02 dancer](02_dancer/readme.md)

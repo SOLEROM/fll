@@ -4,6 +4,23 @@ root: readme.md
 parts:
 
 #########################################################################################################
-  - caption: mimic
+  - caption: Dive
     chapters:
+    - file: 00_motivation/readme.md
+
+  - caption: Training
+    chapters:
+    - file: 101_basic/readme.md
+    - file: 102_introBuilds/readme.md
+    - file: 200_subs/readme.md
+    - file: 201_transmissions/readme.md
+    - file: 202_driving/readme.md
+    - file: 301_primeUnits/readme.md
+    - file: 302_primeExpansion/readme.md
     - file: 400_animalMimic/readme.md
+    - file: 500_campaign/readme.md
+    - file: 501_transformers/readme.md
+    - file: 502_advanced/readme.md
+    - file: 600_reverseEng/readme.md
+    - file: 700_moc/readme.md
+    - file: 800_buildForFun/readme.md

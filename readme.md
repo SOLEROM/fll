@@ -1,38 +1,44 @@
 # FLL
 
-* [motivations](./00_motivation/readme.md)
-* [FLL values](./01_fllVal/readme.md)
-
-
-
-[ <img src="./lizard1/image.png" alt="alt text" width="200">](./lizard1/readme.md)
-
-[ <img src="./lizard2/image.png" alt="alt text" width="200">](./lizard2/readme.md)
-
-
-
-## year plan and log
-* [2023](./2023/readme.md)  
+#### seasons
+* [2023](./2023/readme.md)
 * [2024](./2024/readme.md)
+#### topics
+* [00_motivation](./00_motivation/readme.md) links
+* [01_fllVal](./01_fllVal/readme.md) - core values
+* [3dPrints](./3dPrints/readme.md) 
 
 
-# training map
+## training map
 
-## intro
-* [101 basic](./101_basic/readme.md) - hw controllers and basic logic
+├── [101_basic](./101_basic/readme.md)  - hw controllers and basic logic
 
-## simple logo builds
-* [201 simple build](./201_build/readme.md)
-* [202 build for fun](./202_buildForFun/readme.md)
-* [204 mechanics](./204_mechanics/readme.md)
+├── [102_introBuilds](./102_introBuilds/readme.md)
 
-## lego official learn units
-* [301 prime units](./301_primeUnits/readme.md) - basic lego prime units converted to icon blocks
-* [302 prime extensions](./302_primeExpansion/readme.md)
+├── [200_subs](./200_subs/readme.md)
 
-## campaign
-* [campaign by challenges](./402_challenges/readme.md)
+├── [201_transmiosions](./201_transmissions/readme.md)
 
-## advanced
-* [500 advanced builds](./500_advanced/readme.md)
+├── [202_driving](./202_driving/readme.md)
+
+├── [301_primeUnits](./301_primeUnits/readme.md)
+
+├── [302_primeExpansion](./302_primeExpansion/readme.md)
+
+├── [400_animalMimic](./400_animalMimic/readme.md)
+
+├── [500_campaign](./500_campaign/readme.md)
+
+├── [501_transformers](./501_transformers/readme.md)
+
+├── [502_advanced](./502_advanced/readme.md)
+
+├── [600_reverseEng](./600_reverseEng/readme.md)
+
+├── [700_moc](./700_moc/readme.md)
+
+├── [800_buildForFun](./800_buildForFun/readme.md)
+
+
+
 
