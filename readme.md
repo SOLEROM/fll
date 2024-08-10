@@ -4,6 +4,13 @@
 * [FLL values](./01_fllVal/readme.md)
 
 
+
+[ <img src="./lizard1/image.png" alt="alt text" width="200">](./lizard1/readme.md)
+
+[ <img src="./lizard2/image.png" alt="alt text" width="200">](./lizard2/readme.md)
+
+
+
 ## year plan and log
 * [2023](./2023/readme.md)  
 * [2024](./2024/readme.md)
