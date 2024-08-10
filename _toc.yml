@@ -1,0 +1,9 @@
+
+format: jb-book
+root: readme.md
+parts:
+
+#########################################################################################################
+  - caption: mimic
+    chapters:
+    - file: 400_animalMimic/readme.md

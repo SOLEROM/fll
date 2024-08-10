@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Build the GitBook
-gitbook build
-
-# Use ghp-import to deploy to gh-pages branch
-ghp-import -n -p -f _book
+rm -rf _build
+jupyter-book build . --toc ./_toc.yml --config _jupBook/_config.yml
+ghp-import -n -p -f _build
