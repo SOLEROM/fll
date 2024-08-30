@@ -1,4 +1,4 @@
-# 101 basicBlocks
+# 101 BasicBlocks
 
 * [notes](./notes.md)
 

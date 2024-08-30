@@ -1,5 +1,7 @@
 # 2023
 
+* [motivation vid](https://drive.google.com/file/d/1LVL2R0pFgT2us1CHs2NdHrlkGKVywvce/view?usp=sharing)
+
 ## intro 01
 * [101 basic programming](./101_basic/readme.md)
 * [gymnastBot](./202_buildForFun/gymnastBot/readme.md)

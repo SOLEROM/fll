@@ -1,4 +1,4 @@
-# 502 advanced
+# 502 Advanced
 
 * [ sub sim ![](./shuttleSimulator/logo.png) ](./shuttleSimulator/readme.md)
 

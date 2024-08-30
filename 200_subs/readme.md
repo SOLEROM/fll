@@ -1,4 +1,4 @@
-# 200 subParts
+# 200 SubParts
 
 ### basic
 
@@ -8,3 +8,4 @@
 
 ### combo
 * [grabAndLift](./grabAndLift/readme.md)
+

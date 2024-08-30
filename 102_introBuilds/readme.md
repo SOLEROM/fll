@@ -1,4 +1,4 @@
-# 102 basicBuild
+# 102 BasicBuild
 
 [ ![](./gymnastBot/logo.png) ](./gymnastBot/readme.md)
 

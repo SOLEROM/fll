@@ -7,12 +7,14 @@ parts:
   - caption: Dive
     chapters:
     - file: 00_motivation/readme.md
+    - file: 2024/readme.md
+    - file: 2024/program.md
 
   - caption: Training
     chapters:
     - file: 101_basic/readme.md
     - file: 102_introBuilds/readme.md
-    - file: 200_subs/readme.md
+    - file: 200_subs/readme.mdes
     - file: 201_transmissions/readme.md
     - file: 202_driving/readme.md
     - file: 301_primeUnits/readme.md
