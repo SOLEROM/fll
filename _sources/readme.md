@@ -1,8 +1,8 @@
 # FLL
 
 #### seasons
-* [2023](./2023/readme.md)
-* [2024](./2024/readme.md)
+* [2023](./2023/readme.md)  - masterpiece
+* [2024](./2024/readme.md)  - DeepDive
 #### topics
 * [00_motivation](./00_motivation/readme.md) links
 * [01_fllVal](./01_fllVal/readme.md) - core values

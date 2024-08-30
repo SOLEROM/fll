@@ -1,4 +1,7 @@
-# 2024 plan
+# General
+
+* [drive](https://drive.google.com/drive/folders/1QPn25UZp5iZinVQcReRAhxaN0G5VbxHV?usp=drive_link)
+* [site](https://sites.google.com/view/fllbatia/)
 
 
 ## motivation:
@@ -16,8 +19,13 @@
 
 
 ## schedule:
+
+* [meet dates](./luz.md)
+
 ![alt text](dates.png)
 
+
+
+
 ## lessons
-* [offical program](./program.md)
-* [research vehicles types](./resVec.md)
+* [sessions planning](./program.md)
