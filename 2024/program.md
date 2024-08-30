@@ -1,7 +1,4 @@
-# official program
-
-* [meet dates](./luz.md)
-* [drive](https://drive.google.com/drive/folders/1QPn25UZp5iZinVQcReRAhxaN0G5VbxHV?usp=drive_link)
+# planning
 
 ## aid resources
 * [fll submerged channel](https://www.youtube.com/@firstlegoleagueofficial?si=7fT21ot2oGQKmnxMhttps://www.youtube.com/@firstlegoleagueofficial?si=7fT21ot2oGQKmnxM)

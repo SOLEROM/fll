@@ -4,11 +4,14 @@ root: readme.md
 parts:
 
 #########################################################################################################
-  - caption: Dive
+  - caption: 2024 Deep Dive
     chapters:
-    - file: 00_motivation/readme.md
     - file: 2024/readme.md
     - file: 2024/program.md
+
+  - caption: 2023 masterpiece
+    chapters:
+    - file: 2023/masterpiece/readme.md 
 
   - caption: Training
     chapters:
