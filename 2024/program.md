@@ -59,7 +59,7 @@
     * [how animal survive](https://www.youtube.com/watch?v=GOqRr08hJ6I)
 
 
-🔨🔨🔨 ???? submarine model ?? sink ?? 
+🔨🔨🔨 [submarine model demo](../700_moc/presureDive/readme.md)
 
 
 ![alt text](image-5.png)

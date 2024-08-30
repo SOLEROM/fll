@@ -10,6 +10,4 @@
 * cubic https://www.youtube.com/watch?v=4PlHQtcdYII
 
 ## 2024
-
 * [home page](../2024/readme.md)
-* [program 24](../2024/program.md)

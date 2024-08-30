@@ -14,6 +14,7 @@
 ## topics:
 * [sessions planning](./program.md)
 * [research](./research.md)
+* [values](../01_fllVal/readme.md)
 
 ## schedule:
 
