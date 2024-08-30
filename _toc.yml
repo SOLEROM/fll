@@ -8,6 +8,7 @@ parts:
     chapters:
     - file: 2024/readme.md
     - file: 2024/program.md
+    - file: 2024/research.md
 
   - caption: 2023 masterpiece
     chapters:
