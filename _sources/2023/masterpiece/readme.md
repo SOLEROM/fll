@@ -1,4 +1,4 @@
-# masterpiece 23-24
+# planning
 
 ## intro
 * [MASTERPIECE Explore Set](https://www.youtube.com/watch?v=wLv0cYZ58fw)
