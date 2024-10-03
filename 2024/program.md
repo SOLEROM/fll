@@ -13,7 +13,7 @@
     * show differential drive
 * [build propeller](../102_introBuilds/windTorbine/readme.md)
 * [shift with transmission](../201_transmissions/simp90dg/readme.md)
-
+* [under see arms](https://www.youtube.com/watch?v=89gQ7-JW09Q) | [motor arms](../200_subs/arms/readme.md)
 
 
 ## Session1  - Oceans 
