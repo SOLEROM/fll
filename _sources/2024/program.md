@@ -13,7 +13,7 @@
     * show differential drive
 * [build propeller](../102_introBuilds/windTorbine/readme.md)
 * [shift with transmission](../201_transmissions/simp90dg/readme.md)
-
+* [under see arms](https://www.youtube.com/watch?v=89gQ7-JW09Q) | [motor arms](../200_subs/arms/readme.md)
 
 
 ## Session1  - Oceans 
@@ -113,11 +113,18 @@ vehicle
 ```
 What tools does a marine biologist use when studying ocean animals?
 
-????
+? colors?
 
 ```
 
-🔨🔨🔨 model extend add lights (hub leds)
+🔨🔨🔨 model extend use push sensor to turn on lights (hub leds) 
+
+🔨🔨🔨 intergrate with display/graph block 
+
+```
+?  count on grapth
+? display warning image on display plot
+``
 
 
 
@@ -130,7 +137,7 @@ What kinds of sensors would be useful on a submarine?
 How are submarines used to explore the ocean?
 ```
 
-🔨🔨🔨 model extend:
+🔨🔨🔨 model extend - color sensor
    
 * flash a light when a team member approaches the sensor
 * attach the sensor, motor, and hub to the submarine from Session 1
