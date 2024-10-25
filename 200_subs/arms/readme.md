@@ -7,5 +7,6 @@
 
 * https://www.youtube.com/watch?v=fMgr1c3y9PQ
 
+![see pdf](Lego Spike Prime -Little Gripper Prime.pdf)
 
 ![alt text](image-2.png)
