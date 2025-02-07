@@ -1,4 +1,10 @@
-# planning
+# 2024B
+
+## dates
+
+![alt text](image-1.png)
+
+## lessons
 
 ## aid resources
 * [fll submerged channel](https://www.youtube.com/@firstlegoleagueofficial?si=7fT21ot2oGQKmnxMhttps://www.youtube.com/@firstlegoleagueofficial?si=7fT21ot2oGQKmnxM)
@@ -6,22 +12,22 @@
 * [noaa activity book](https://oceanservice.noaa.gov/education/discoveryourworld.html)
 
 
+## Session1 - motivation and welcome
 
-## 🔦 pre season - artic challenge  
+* motivation ; lessons01 on drive;
+
+
+## Session2 - intro
 * basic driving  [build artic slide](../202_driving/1_slide/readme.md)
 * [convert to whell drive](../202_driving/2_roundWheel/readme.md)
-    * show differential drive
-* [build propeller](../102_introBuilds/windTorbine/readme.md)
-* [shift with transmission](../201_transmissions/simp90dg/readme.md)
-* [under see arms](https://www.youtube.com/watch?v=89gQ7-JW09Q) | [motor arms](../200_subs/arms/readme.md)
+
+* advanced ? [under see arms](https://www.youtube.com/watch?v=89gQ7-JW09Q) | [motor arms](../200_subs/arms/readme.md)
 
 
-## Session1  - Oceans 
+## Session3 - Oceans 
 
 * [ocean map](https://www.mapsofworld.com/images/map-of-world-oceans.jpg)
 * ocean depth  https://www.youtube.com/watch?v=A_h_atP6jBs
-
-
 
 * 80% of oceans are unexplored
 
@@ -33,22 +39,23 @@
 
 ```
 
-🔨🔨🔨 build year's submarine model -  [sub build1](./build1.md)
+🔨🔨🔨 build year's submarine model -  [sub build1](../2024/build1.md) // [spike inst.](https://drive.google.com/file/d/1F8C9ex6vJCzvotpSfPNvkgORLWUiZA_a/view?usp=drive_link)
 
 🔨🔨🔨 Build the coral reef and shark models
 
-![alt text](image-3.png)
+![alt text](../2024/image-3.png)
 
-🔨🔨🔨 [lunch the model from shore to the sea](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-boat-trip/)
 
-## Session2  - sea vehicles 
+## Session4 - sea vehicles 
 
-* [research vehicles type](./resVec.md)
+* [research vehicles type](../2024/resVec.md)
 
-🔨🔨🔨 [spike lesson underwater-quest](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-underwater-quest/)
+🔨🔨🔨 [spike lesson underwater-quest](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-underwater-quest/) // [spike inst](https://drive.google.com/file/d/1FF393sFwLV7bF_X1HpxNNy404umziKfU/view?usp=drive_link)
 
-![alt text](image-4.png)
+![alt text](../2024/image-4.png)
 
+
+## Session5 - pressure
 
 * pressure
     * https://www.youtube.com/watch?v=YtdEN-40tUI
@@ -62,19 +69,19 @@
 🔨🔨🔨 [submarine model demo](../700_moc/presureDive/readme.md)
 
 
-![alt text](image-5.png)
+![alt text](../2024/image-5.png)    
+* [build?](./https://drive.google.com/file/d/1Zf-USnVbGJ__Vtt6BabDyueKo5RGXcN6/view?usp=drive_link) / [show?](https://drive.google.com/file/d/1N3c2OU2wBx8lo6ao5ObKBouscXzhr2CF/view?usp=drive_link)
 
 
 
-
-## Session3  - Ocean Layers
+## Session6  - Ocean Layers
 
 * Ocean Layers
    * https://ocean.si.edu/ecosystems/deep-sea/ocean-layers
    * https://www.timeforkids.com/k1/deep-in-sea/
    * https://www.youtube.com/watch?v=75S7Ki_q14c
 
-![alt text](image-1.png)
+![alt text](../2024/image-1.png)
 
 ```
  האזור המואר
@@ -101,34 +108,9 @@ How do humans explore the ocean and what do they need to do it?
 different way
 *  modify your model so it represents a deep sea 
 vehicle
-* 🔦 [assistant drive ideas](../202_driving/readme.md)
-
-![alt text](image-9.png)
 
 
-## Session4 - lights
-
-* sunlight zone receives light that warms the water and enables plants to grow ( marine biologist )
-
-```
-What tools does a marine biologist use when studying ocean animals?
-
-? colors?
-
-```
-
-🔨🔨🔨 model extend use push sensor to turn on lights (hub leds) 
-
-🔨🔨🔨 intergrate with display/graph block 
-
-```
-?  count on grapth
-? display warning image on display plot
-```
-
-
-
-## Session5 - sensors
+## Session7 - sensors
 
 * explore the use of lights and sensors
 
@@ -147,7 +129,7 @@ How are submarines used to explore the ocean?
 
 
 
-## Session6 - arms
+## Session8 - arms
 
 submarine arms are used to collect samples from the ocean floor
 
@@ -157,21 +139,12 @@ what kind of arms are best for each task?
 ```
 
 * [grabAndLift](../200_subs/grabAndLift/readme.md)
+* [test arms](https://docs.google.com/document/d/18UQ7cJON1j5DN9rMhBl0iXxM9T_mevrsHh7J8hOunx0/edit?usp=drive_link)
 
 🔨🔨🔨 model extend add arms
 
 
-##  Session7 - speed
-
-🔨🔨🔨  Modify the boat model to different speeds
-
-* transmissions:
-    *  🔦 speed ratio TBD
-    *  [simp 90 degree](../201_transmissions/simp90dg/readme.md)
-
-
-
-## Session8 - navigation
+## Session9 - navigation
 
 * how do we navigate in the deepest parts ?
 
@@ -187,9 +160,8 @@ What do you hope your submarine will discover at the bottom of the ocean?
 * Can you drive the robot at different speeds?
 
 
-## Session9 - Deep Sea Discovery
 
-### new creatures
+## Session10 - new creatures
 Research animals that have recently been discovered.
 
 * https://www.stem.org.uk/resources/elibrary/resource/32764/newly-discovered-species-age-7-11
@@ -207,7 +179,7 @@ How much space does your creature need?
 Does your creature live in a cave or in open water?
 ```
 
-## Session10 - new habitat
+## Session11 - new habitat
 
 Artificial habitats are created by humans provide protection 
 for fish and other small animals or protect a coast from erosion
@@ -219,7 +191,7 @@ Can you draw the habitat you are going to build?
 ```
 
 
-## Session11 - Exploration Station 
+## Session12 - Exploration Station 
 
 * [live underwater](https://www.usatoday.com/story/news/nation/2023/05/10/noaa-the-proteus-group-plan-underwater-space-station-for-research/70171186007/)
 
@@ -233,7 +205,8 @@ Does a marine biologist use different technology than a submarine pilot?
 ```
 
 
-## Session12  - final model
+
+## Session13  - final model
 
 build team model that shows your team’s ocean journey
 
@@ -243,14 +216,8 @@ build team model that shows your team’s ocean journey
     * an ocean creature
     * Motorize any part of the team mode
 
-## Session13 - poster
+## Session14 - poster
 
 create your team poster use words, drawings, and photos on your poster
 
 * [examples](https://www.google.com/search?client=ubuntu&hs=0WK&sca_esv=d508bae1ee411921&sca_upv=1&channel=fs&sxsrf=ADLYWIIJmUgs_7TZqS3L3jWIZlL6RBlw0w:1725000015014&q=fll+poster+examples&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Ns6EVsgc0W_0xN47PHaanAEtg26fpfc9gg2y1-ZsywNNidIzOA0khSyMN51n7r3LlDC9M1NYStuTRDcBUYQ58dKt-Q6SigUS4Yne5yDHLg0vPBr98Nz98twIaNcnWiKaD4QuEh93Q53sB-UkWP9OcfO5KeatY98HR7cDW9ZTjFpZV7kJtA&sa=X&ved=2ahUKEwjxrYfpjZyIAxWDxgIHHfuCBX0QtKgLegQIExAB&biw=1534&bih=722&dpr=1.25)
-
-## Session14 - presentation
-
-prepare for your event
-
-TBD
