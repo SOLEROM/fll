@@ -1,5 +1,7 @@
 # FLL
 
+* [resources links](resources.md)
+
 #### seasons
 * [2023](./2023/readme.md)  - masterpiece
 * [2024](./2024/readme.md)  - DeepDive

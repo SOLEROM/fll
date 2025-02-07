@@ -113,11 +113,18 @@ vehicle
 ```
 What tools does a marine biologist use when studying ocean animals?
 
-????
+? colors?
 
 ```
 
-🔨🔨🔨 model extend add lights (hub leds)
+🔨🔨🔨 model extend use push sensor to turn on lights (hub leds) 
+
+🔨🔨🔨 intergrate with display/graph block 
+
+```
+?  count on grapth
+? display warning image on display plot
+``
 
 
 
@@ -130,7 +137,7 @@ What kinds of sensors would be useful on a submarine?
 How are submarines used to explore the ocean?
 ```
 
-🔨🔨🔨 model extend:
+🔨🔨🔨 model extend - color sensor
    
 * flash a light when a team member approaches the sensor
 * attach the sensor, motor, and hub to the submarine from Session 1
