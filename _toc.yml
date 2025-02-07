@@ -4,11 +4,18 @@ root: readme.md
 parts:
 
 #########################################################################################################
+  
+  - caption: 2025 Explores
+    chapters:
+    - file: 2025A/readme.md
+  
   - caption: 2024 Deep Dive
     chapters:
     - file: 2024/readme.md
     - file: 2024/program.md
     - file: 2024/research.md
+    - file: 2024B/readme.md
+    
 
   - caption: 2023 masterpiece
     chapters:

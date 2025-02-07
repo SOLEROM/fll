@@ -10,4 +10,9 @@
 * cubic https://www.youtube.com/watch?v=4PlHQtcdYII
 
 ## 2024
-* [home page](../2024/readme.md)
+* [2024A](../2024/readme.md)
+* [2024B](../2024B/readme.md)
+
+
+## 2025
+* [2025A](../2025A/readme.md)

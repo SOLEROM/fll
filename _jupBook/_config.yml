@@ -13,6 +13,9 @@ exclude_patterns:
   - _build
   - ./2023
   - ./2024
+  - ./2024B
+  - ./2025A
+
 
 
 
