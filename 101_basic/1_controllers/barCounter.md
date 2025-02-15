@@ -1,4 +1,3 @@
 # bar counter
 
-![](./bar1.png
-)
+![](./bar1.png)
