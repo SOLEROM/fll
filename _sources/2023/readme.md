@@ -10,8 +10,6 @@
 
 ## intro 02
 * [gap crosser](./402_challenges/2_autoCar/readme.md)
-or
-* [self park](./402_challenges/2_autoCar/hotDorSelfPark/readme.md)
 
 
 ## week 01 - motivation and basic commands
