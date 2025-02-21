@@ -19,6 +19,7 @@
 
 
 ## chapter1 intro [1]
+* [motivation](./motivation.md)
 * [basic drive and draw](../202_driving/0_draw/readme.md)
     * [practice letters as threads](..//101_basic/2_logic/lettersAsThreads.md)
     
