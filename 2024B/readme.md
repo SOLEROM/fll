@@ -16,6 +16,10 @@
 
 * motivation ; lessons01 on drive;
 
+    * [heb intro](https://drive.google.com/file/d/1-05Vyp6W9rkN7GXNfYq0zFAIAzuM-LpN/view?usp=drive_link)
+    * set : https://www.youtube.com/watch?v=hCEp4mQ6bVk
+    * reveal : https://www.youtube.com/watch?v=4JV7x014U0I
+
 
 ## Session2 - intro
 * basic driving  [build artic slide](../202_driving/1_slide/readme.md)
