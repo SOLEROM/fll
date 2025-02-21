@@ -1,5 +1,8 @@
 # motivation 
 
+https://www.youtube.com/watch?v=tCoLcjCG_co
+
+
 ![](../101_basic/1_controllers/bar1.png)
 
 ![alt text](image.png)
