@@ -9,3 +9,5 @@
 ### combo
 * [grabAndLift](./grabAndLift/readme.md)
 
+### clicker
+* [clicker](./clicker/readme.md)
