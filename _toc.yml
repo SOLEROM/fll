@@ -25,7 +25,7 @@ parts:
     chapters:
     - file: 101_basic/readme.md
     - file: 102_introBuilds/readme.md
-    - file: 200_subs/readme.mdes
+    - file: 200_subs/readme.md
     - file: 201_transmissions/readme.md
     - file: 202_driving/readme.md
     - file: 301_primeUnits/readme.md
@@ -37,3 +37,4 @@ parts:
     - file: 600_reverseEng/readme.md
     - file: 700_moc/readme.md
     - file: 800_buildForFun/readme.md
+    - file: 900_untiIntuitive/readme.md

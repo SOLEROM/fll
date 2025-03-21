@@ -15,6 +15,7 @@
 * innovation
 * challenge solving
 * final model with presentation skills
+* have some fun - [clicker](../200_subs/clicker/readme.md)
 
 
 
