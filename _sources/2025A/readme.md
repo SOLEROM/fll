@@ -25,7 +25,10 @@
     * [practice letters as threads](..//101_basic/2_logic/lettersAsThreads.md)
     
 * [rocky](../102_introBuilds/rocky/readme.md)
-    * [counter](../101_basic/1_controllers/barCounter.md) display
+
+### bars
+* [simp counter](../101_basic/1_controllers/barCounter.md) display
+* [gate counter](../102_introBuilds/gateCounter/readme.md) 
 
 !!!   TBD  according to the level of the group....
 
