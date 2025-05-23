@@ -37,4 +37,6 @@ parts:
     - file: 600_reverseEng/readme.md
     - file: 700_moc/readme.md
     - file: 800_buildForFun/readme.md
+    - file: 801_battle/readme.md
     - file: 900_untiIntuitive/readme.md
+
