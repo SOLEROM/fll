@@ -10,6 +10,7 @@
 * https://www.youtube.com/watch?v=AJzaIhchawQ
 
 ## plank
+* [youtube list](https://www.youtube.com/results?search_query=+Lego+Spike+Prime+plank+battles+)
 * https://www.youtube.com/watch?v=CocJNq3qDdw
 
 
