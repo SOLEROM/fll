@@ -9,11 +9,19 @@
 ## matrials
 
 * [intro](./intro.md)
+* [pr](./pr.md)
 * [official materials](./official.md)
 
 ## links
 
-* 
+* [The Magic School Bus](https://www.youtube.com/watch?v=eET9BNpTmWk)
+* [Vocabulary List](https://www.merriam-webster.com/vocabulary/archaeology-vocabulary-list)
+* [Archeology for Kids](https://www.nps.gov/subjects/archeology/archeology-for-kids.htm)
+* [Archeology for Kids2](https://online.kidsdiscover.com/unit/archaeology)
+* [Layers Of Soil](https://www.youtube.com/watch?v=bgqea0E2eAY)
+* [Excavator](https://kids.kiddle.co/Excavator)
+* [Learn Radar for Kids](https://www.youtube.com/watch?v=ppKyRyYvicg)
+
 
 
 # 1 intro ::   הרפתקה ארכיאולוגית 
@@ -136,24 +144,99 @@
 
 
 # 5 
-* חופרים מצוינים
-* program skill:
-    * basic: [Arctic Ride](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-arctic-ride/)
-    * advanced: ? 
+
+הקבוצה תלמד כיצד ארכיאולוגים
+מטפלים בחפצים ומזיזים אותם באתר
+חפירות.
+
 * חקר כלי רכב המשמשים באתרי חפירות
 
+```
+האם תוכלו לשנות את הרובוט כך שיסע עם ארבעה גלגלים?
+האם תוכלו לבנות משאית שתעביר חומר רב מאתר החפירות?
+כיצד תוכלו לתכנת את הרובוט שלכם כך שיעצור על אחד מהחפצים?
+```
+
+###  basic
+* [Arctic Ride](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-arctic-ride/)
+    * change to go backward 
+    * update the model to used on site
+    * try : שהדגם ינוע בין שני החפצים שבחרתם. נסו לעצור את הדגם על אחד החפצים. 
+
+### advanced: דגם חפירות
+* ??? TODO
+
+
+
+```
+על הקבוצה לתרגל את מיקום הרובוט כך שיגיע למיקום מסוים על שטיח המשחק.
+אתם יכולים להציב מכשול על שטיח המשחק כדי לאתגר את הקבוצה לתכנת את הרובוט שלה להסתובב.
+```
+
+
+
+
+
 # 6
-* מחפשי אותות
-* חקר כלים וטכנולוגיה
-* תכנות דגם המכ”ם
+הקבוצה תבנה כלים בהם משתמשים ארכיאולוגים באתרי חפירות
+
+```
+אילו כלים נדרשים לחפירה? אילו כלים נדרשים לתיעוד או לחקר חפצים?
+
+???
+להמציא כלי חדש בלגו חופשי
+???
+
+```
+
+### build activity מחפשי אותות
+
+```
+מהו מכ"מ
+תכנות דגם המכ”ם
+```
+
+* build:
+
+![alt text](image-2.png)  ?? TODO : spike updated instructions
+
+
+
 
 # 7
+הקבוצה תלמד על מקצועות הקשורים לארכיאולוגיה
+* [list of proffesions](./professions.md)
+```
+לאילו מקומות נשלחים חפצים כדי שאנשים יוכלו ללמוד אותם?
+אילו מקצועות תומכים בעבודתם של ארכיאולוגים?
+
+בחרו במקצוע המעניין אתכם. איזה סוג של הכשרה נדרשת כדי לעסוק בו? 
+באילו כליםמ שתמשים במקצוע זה?
+
+```
+
 * עוזרי ההיסטוריה
 * חקר מקצועות ארכיאולוגיה
-* תכנות דגם אתר החפירות
 
 
-# 
+### build: תכנות דגם אתר החפירות
+* add electronics to the model from kit 2+5:
+
+![alt text](image-4.png)  ?? TODO : spike updated instructions
+
+* run the sw 
+    * control speed
+    * refactor the moving part mechanism in other ways
+    * add custom group symbols representing the team
+
+
+
+
+
+
+
+
+# les : preapre for event
 * הדגם הקבוצתי
 * הפוסטר הקבוצתי
 * הכנה לאירוע
