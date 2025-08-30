@@ -5,7 +5,7 @@ parts:
 
 #########################################################################################################
 
-  - caption: 2026 Explores
+  - caption: 2026 UNEARTHED
     chapters:
     - file: 2026/readme.md
     - file: 2026/dates.md
