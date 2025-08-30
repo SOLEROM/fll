@@ -229,10 +229,10 @@ Archaeological site vehicles are broadly divided into two categories:
 
 ----
 
-## les9: 
+## les9: professions 
 
 הקבוצה תלמד על מקצועות הקשורים לארכיאולוגיה
-* [list of proffesions](./professions.md)
+* [list of professions](./professions.md)
 ```
 לאילו מקומות נשלחים חפצים כדי שאנשים יוכלו ללמוד אותם?
 אילו מקצועות תומכים בעבודתם של ארכיאולוגים?
