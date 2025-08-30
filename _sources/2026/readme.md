@@ -1,4 +1,4 @@
-# 2026 :: UNEARTHED
+# 2026 PLANNING 
 
 ```
 חקרו את העבר כדי לגלות את העתיד.
@@ -31,9 +31,7 @@
 * start with the comics
 * what is archaeology?
 
-<a href="image-7.png">
-  <img src="image-7.png" alt="Description" width="200">
-</a>
+![](image-7.png)
 
 * UNEARTHED חקר הנושא
 
@@ -54,17 +52,15 @@
 
 * 🔨 lego 7-12 :  פעילות בנייה חופשית בנושא ארכיאולוגיה
 
-<a href="image-8.png">
-  <img src="image-8.png" alt="Description" width="200">
-</a>
+![](image-8.png)
 
 
 
 ## les2:  התהליך הארכיאולוגי
 
-<a href="image-9.png">
-  <img src="image-9.png" alt="Description" width="200">
-</a>
+![](image-9.png)
+
+
 
 ```
 כיצד ארכיאולוגים יודעים היכן לחפור?
