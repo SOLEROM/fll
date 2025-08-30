@@ -6,6 +6,8 @@
 
 ![alt text](image.png)
 
+* [date planning](./dates.md)
+
 ## matrials
 
 * [intro](./intro.md)
