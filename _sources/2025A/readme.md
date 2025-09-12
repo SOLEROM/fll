@@ -24,11 +24,11 @@
 * [basic drive and draw](../202_driving/0_draw/readme.md)
     * [practice letters as threads](..//101_basic_icons/2_logic/lettersAsThreads.md)
     
-* [rocky](../102_introBuilds/rocky/readme.md)
+* [rocky](../105_introBuilds/rocky/readme.md)
 
 ### bars
 * [simp counter](../101_basic_icons/1_controllers/barCounter.md) display
-* [gate counter](../102_introBuilds/gateCounter/readme.md) 
+* [gate counter](../105_introBuilds/gateCounter/readme.md) 
 
 !!!   TBD  according to the level of the group....
 
