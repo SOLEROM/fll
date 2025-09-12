@@ -145,7 +145,7 @@
     * change the model to help on site : sort by color the found objects "בלשי עפר"
 
 * 🔨🔨 advanced: 
-  * ???TODO??? :  [distance sensor](../101_basic/sensorsTests/distanceTest.md)
+  * ???TODO??? :  [distance sensor](../101_basic_icons/sensorsTests/distanceTest.md)
 
 
 

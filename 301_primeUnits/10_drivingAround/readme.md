@@ -16,7 +16,7 @@
 
 TBD
 
-** [test move accu error](../../101_basic/sensorsTests/moveAccError.md)
+** [test move accu error](../../101_basic_icons/sensorsTests/moveAccError.md)
 
 ### (2) program pseudocode
 

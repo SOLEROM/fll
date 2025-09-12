@@ -31,7 +31,7 @@ parts:
 
   - caption: Training
     chapters:
-    - file: 101_basic/readme.md
+    - file: 101_basic_icons/readme.md
     - file: 102_introBuilds/readme.md
     - file: 200_subs/readme.md
     - file: 201_transmissions/readme.md

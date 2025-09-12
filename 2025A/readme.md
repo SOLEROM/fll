@@ -22,12 +22,12 @@
 ## chapter1 intro [1]
 * [motivation](./motivation.md)
 * [basic drive and draw](../202_driving/0_draw/readme.md)
-    * [practice letters as threads](..//101_basic/2_logic/lettersAsThreads.md)
+    * [practice letters as threads](..//101_basic_icons/2_logic/lettersAsThreads.md)
     
 * [rocky](../102_introBuilds/rocky/readme.md)
 
 ### bars
-* [simp counter](../101_basic/1_controllers/barCounter.md) display
+* [simp counter](../101_basic_icons/1_controllers/barCounter.md) display
 * [gate counter](../102_introBuilds/gateCounter/readme.md) 
 
 !!!   TBD  according to the level of the group....
@@ -36,7 +36,7 @@
 * [grab](../200_subs/1_spikeGrab/readme.md)
 * [lift](../200_subs/2_spikeFift/readme.md)
 * [combo](https://docs.google.com/document/d/1E3PWDgcbX66xTZkQUixwI9yYMk-AUDfZHDM14jXDcPg/edit?usp=sharing)
-* connect to moving plarform and practice [3 motors](../101_basic/5_motors/readme.md) 
+* connect to moving plarform and practice [3 motors](../101_basic_icons/5_motors/readme.md) 
 control
 
 ## session1 :Autonomy   [3,4]
