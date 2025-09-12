@@ -1,50 +1,47 @@
-
 format: jb-book
 root: readme.md
 parts:
-
-#########################################################################################################
+  #########################################################################################################
 
   - caption: 2026 UNEARTHED
     chapters:
-    - file: 2026/readme.md
-    - file: 2026/dates.md
-    - file: 2026/intro.md
-    - file: 2026/pr.md
-
+      - file: 2026/readme.md
+      - file: 2026/dates.md
+      - file: 2026/intro.md
+      - file: 2026/pr.md
 
   - caption: 2025 Explores
     chapters:
-    - file: 2025A/readme.md
-  
+      - file: 2025A/readme.md
+
   - caption: 2024 Deep Dive
     chapters:
-    - file: 2024/readme.md
-    - file: 2024/program.md
-    - file: 2024/research.md
-    - file: 2024B/readme.md
-    
+      - file: 2024/readme.md
+      - file: 2024/program.md
+      - file: 2024/research.md
+      - file: 2024B/readme.md
 
   - caption: 2023 masterpiece
     chapters:
-    - file: 2023/masterpiece/readme.md 
+      - file: 2023/masterpiece/readme.md
 
   - caption: Training
     chapters:
-    - file: 101_basic_icons/readme.md
-    - file: 102_introBuilds/readme.md
-    - file: 200_subs/readme.md
-    - file: 201_transmissions/readme.md
-    - file: 202_driving/readme.md
-    - file: 301_primeUnits/readme.md
-    - file: 302_primeExpansion/readme.md
-    - file: 400_animalMimic/readme.md
-    - file: 500_campaign/readme.md
-    - file: 501_transformers/readme.md
-    - file: 502_advanced/readme.md
-    - file: 600_reverseEng/readme.md
-    - file: 700_moc/readme.md
-    - file: 800_buildForFun/readme.md
-    - file: 801_battle/readme.md
-    - file: 900_untiIntuitive/readme.md
-
+      - file: 101_basic_icons/readme.md
+      - file: 102_basic_words/readme.md
+      - file: 103_words_concepts/readme.md
+      - file: 105_introBuilds/readme.md
+      - file: 200_subs/readme.md
+      - file: 201_transmissions/readme.md
+      - file: 202_driving/readme.md
+      - file: 301_primeUnits/readme.md
+      - file: 302_primeExpansion/readme.md
+      - file: 400_animalMimic/readme.md
+      - file: 500_campaign/readme.md
+      - file: 501_transformers/readme.md
+      - file: 502_advanced/readme.md
+      - file: 600_reverseEng/readme.md
+      - file: 700_moc/readme.md
+      - file: 800_buildForFun/readme.md
+      - file: 801_battle/readme.md
+      - file: 900_untiIntuitive/readme.md
