@@ -225,7 +225,7 @@ Archaeological site vehicles are broadly divided into two categories:
 
 ----
 
-אתגר בין קבוצתי: חיפוש אובייקט ידוע במתאר לא ידוע ללא מפה
+אתגר2 בין קבוצתי: חיaפוש אובייקט ידוע במתאר לא ידוע ללא מפה
 
 ----
 
