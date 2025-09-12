@@ -3,7 +3,7 @@
 * [motivation vid](https://drive.google.com/file/d/1LVL2R0pFgT2us1CHs2NdHrlkGKVywvce/view?usp=sharing)
 
 ## intro 01
-* [101 basic programming](./101_basic/readme.md)
+* [101 basic programming](./101_basic_icons/readme.md)
 * [gymnastBot](./202_buildForFun/gymnastBot/readme.md)
 
 
@@ -17,7 +17,7 @@
 * [year story]()
 * [values](./2023_masterpiece/values.md)
 * [groupRoles](./2023_masterpiece/rolles/readme.md)
-* [101 basic programming](./101_basic/readme.md)
+* [101 basic programming](./101_basic_icons/readme.md)
 * [robot1 : uphill Challenge](./301_primeUnits/13_uphill/readme.md)
 
 
@@ -39,7 +39,7 @@
 ## week 05 - Behind the Scenes
 * [yearTopicMeetup 02](./2023_masterpiece/session_02/readme.md)
 * [robot: square Driving Around](./301_primeUnits/10_drivingAround/readme.md)
-    * [test move accu error](../../101_basic/sensorsTests/moveAccError.md)
+    * [test move accu error](../../101_basic_icons/sensorsTests/moveAccError.md)
 
 ## week 06 - Sound All Around
 * [yearTopicMeetup 03](./2023_masterpiece/session_03/readme.md)

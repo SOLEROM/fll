@@ -4,7 +4,7 @@
 * [Qualcomm season teaser](https://www.youtube.com/watch?v=B0CU-GzCc50)
 
 ## heb
-* 
+* [Qualcomm season teaser](https://www.youtube.com/watch?v=S6Gw4psux4Q)
 
 ## nolan
 * [UNEARTHED map teaser](https://www.youtube.com/watch?v=exWkcUBS0j8)

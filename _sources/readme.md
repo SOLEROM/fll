@@ -16,7 +16,7 @@
 
 ## training map
 
-├── [101_basic](./101_basic/readme.md)  - hw controllers and basic logic
+├── [101_basic_icons](./101_basic_icons/readme.md)  - hw controllers and basic logic
 
 ├── [102_introBuilds](./102_introBuilds/readme.md)
 
