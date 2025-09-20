@@ -18,6 +18,10 @@
 
 ├── [101_basic_icons](./101_basic_icons/readme.md)  - hw controllers and basic logic
 
+├── [102_basic_words](./101_basic_icons/readme.md)  - learn the icons of words blocks
+
+├── [103_words_concepts](./103_words_concepts/readme.md)  - play programs with wordsBlocks to learn concepts
+
 ├── [105_introBuilds](./105_introBuilds/readme.md)
 
 ├── [200_subs](./200_subs/readme.md)
