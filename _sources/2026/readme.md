@@ -24,6 +24,14 @@
 * [Excavator](https://kids.kiddle.co/Excavator)
 * [Learn Radar for Kids](https://www.youtube.com/watch?v=ppKyRyYvicg)
 
+## les0: מבוא לפני ערכות
+
+* year movie  + year subject clips ( [les01 drive](https://drive.google.com/drive/folders/1qVdUUQ-fwUfZVXGGUhkv1OUQr7aQLtkK?usp=drive_link) )
+* [intro to blocks](../101_basic_icons/readme.md)
+* intro builds:
+  * [lev1: hopper](../301_primeUnits/01_hopper/readme.md) 
+  * [lev2: graber](../301_primeUnits/11_rescue_objects/readme.md)
+
 
 
 ## les1 : הרפתקה ארכיאולוגית 
