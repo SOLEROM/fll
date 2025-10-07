@@ -5,6 +5,7 @@
 ![alt text](image.png)
 
 * [connect](./connnect.md)
+    * [battery](./battery.md)
 * [motor](./motors.md)
 * [move](./move.md)
 * [light](./lights.md)
