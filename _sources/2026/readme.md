@@ -1,4 +1,4 @@
-# 2026 :: UNEARTHED
+# 2026 PLANNING 
 
 ```
 חקרו את העבר כדי לגלות את העתיד.
@@ -6,24 +6,16 @@
 
 ![alt text](image.png)
 
+* [date planning](./dates.md)
+
+## year topic
+* [archaeology](./arch/readme.md)
+
 ## matrials
 
 * [intro](./intro.md)
 * [pr](./pr.md)
 * [official materials](./official.md)
-* [next challenges](./nextChallenges.md)
-
-
-## objective
-* year object
-* follow  the line contest
-* linear wepons push over
-* challenges for challange
-
-
-## year topic
-* [archaeology](./arch/readme.md)
-
 
 ## links
 
@@ -35,53 +27,51 @@
 * [Excavator](https://kids.kiddle.co/Excavator)
 * [Learn Radar for Kids](https://www.youtube.com/watch?v=ppKyRyYvicg)
 
+## les0: מבוא לפני ערכות
+
+* year movie  + year subject clips ( [les01 drive](https://drive.google.com/drive/folders/1qVdUUQ-fwUfZVXGGUhkv1OUQr7aQLtkK?usp=drive_link) )
+* [intro to blocks](../101_basic_icons/readme.md)
+* intro builds:
+  * [lev1: hopper](../301_primeUnits/01_hopper/readme.md) 
+  * [lev2: graber](../301_primeUnits/11_rescue_objects/readme.md)
 
 
-# LES01 (intro  הרפתקה ארכיאולוגית)
 
-### פתיחת נושא שנתי
-
+## les1 : הרפתקה ארכיאולוגית 
+* choose name to the team
+* start with the comics
 * what is archaeology?
 
-<a href="image-7.png">
-  <img src="image-7.png" alt="Description" width="200">
-</a>
+![](image-7.png)
 
-* start with the comics
+* UNEARTHED חקר הנושא
 
-### הכרות עם נושא העונה
-* UNEARTHEDTM חקר הנושא
+<div dir="rtl" lang="he">
 
 ```
 למידה על איך בני האדם חיו בעבר עשויה לעזור לנו לקבל החלטות טובות יותר בעתיד.
 ארכיאולוגים עשויים לרצות לדעת:
-מי חיו שם?
-באילו כלים הם השתמשו?
-מה הם אכלו?
-איזה סוגי בתים הם בנו?
-באילו משחקים הם שיחקו?
+      מי חיו שם?
+      באילו כלים הם השתמשו?
+      מה הם אכלו?
+      איזה סוגי בתים הם בנו?
+      באילו משחקים הם שיחקו?
 
 ```
 
-### legoTask01
+</div>
 
-* lego 7-12 :  פעילות בנייה חופשית בנושא ארכיאולוגיה
+* 🔨 lego 7-12 :  פעילות בנייה חופשית בנושא ארכיאולוגיה
 
-<a href="image-8.png">
-  <img src="image-8.png" alt="Description" width="200">
-</a>
-
-* choose name to the team
+![](image-8.png)
 
 
-# LES02 
+
+## les2:  התהליך הארכיאולוגי
+
+![](image-9.png)
 
 
-* get to know  התהליך הארכיאולוגי
-
-<a href="image-9.png">
-  <img src="image-9.png" alt="Description" width="200">
-</a>
 
 ```
 כיצד ארכיאולוגים יודעים היכן לחפור?
@@ -89,37 +79,23 @@
 כיצד מכ”ם יכול לעזור לארכיאולוגים למצוא חפצים?
 ```
 
-### legoTask02
 
-* [build radar](./official.md#model1)  model from kit 1 (kit only no electronics)
+* 🔨 [build radar](./official.md#model1)  model from kit 1 (kit only no electronics)
 
-* learn about radar ????????
-
-### lego Task03
-* spike distance sensor https://www.youtube.com/watch?v=CMuD4XKqNLI
-* calibration? 
-* Go Around Obstacles
+* 🔨🔨 build some [digging ideas](./digging.md)
 
 
-### lego Task04
-* maze solver https://www.youtube.com/watch?v=_hAD7YvMl7A
 
+## les3:  הצלת שריד
 
 ```
- אילו כלים אחרים משמשים
-ארכיאולוגים. אילו כלים נדרשים כדי לחפור? באילו
-כלים משתמשים לתיעוד או לחקר חפצים?
+ אילו כלים אחרים משמשים ארכיאולוגים. 
+ אילו כלים נדרשים כדי לחפור? 
+ באילו כלים משתמשים לתיעוד או לחקר חפצים?
 
 ```
 
-
-
-
-
-
-# Les03 
-
-* build kit (kit only no electronics) 2+5 :  הצלת שריד
+* 🔨 build kit (kit only no electronics) 2+5 :  
 
 ![alt text](image-10.png)
 
@@ -132,18 +108,18 @@
 קבוצתכם כיצד השתמשו בהם.
 ```
 
+* 🔨🔨 [arms](../200_subs/arms/readme.md) 
+  * NEW control each engine in word blocks 
 
 
 
 
-# 3 - rotate and locate
+## les4: - rotate and locate
 
 הקבוצה תלמד כיצד ארכיאולוגים
 משתמשים בטכנולוגיה באתר חפירות
 
-* program skill:
-    * basic: [Classic Carousel](https://education.lego.com/en-us/lessons/spikeessential-amazing-amusement-park/spikeessential-classic-carousel/) (+change spin direction)
-    * advanced: ?????????????
+  * 🔨 basic: [Classic Carousel](https://education.lego.com/en-us/lessons/spikeessential-amazing-amusement-park/spikeessential-classic-carousel/) (+change spin direction)
 
 ```
 דברו עם חברי הקבוצה על איך שהדגם יכול לסייע
@@ -157,11 +133,12 @@
         * שנו את התוכנית כך שהדגם יסתובב ויעצור מעל
 החפץ שבחרתם.
 
+* 🔨🔨 advanced:  [drive control seperate engines](../202_driving/4_parking/readme.md)
 
 
 
 
-# les 4 : sort by sensors
+## les5 : sort by sensors
 
 הקבוצה תלמד כיצד ניתן להשתמש
 בחיישנים כדי לזהות דברים
@@ -174,96 +151,114 @@
 חיישנים מסוימים יכולים לזהות אילו חומרים נמצאים בחפץ, או אם משהו מוסתר בתוכו.
 ```
 
-### program skill:
-* basic: [Animal Alarm](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-animal-alarm/)
+* 🔨 basic: [Animal Alarm](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-animal-alarm/)
     * for spike work on voice alarm on color sensor
     * change the model to help on site : sort by color the found objects "בלשי עפר"
 
-* advanced: ?????????????????
+* 🔨🔨 advanced: 
+  * ???TODO??? :  [distance sensor](../101_basic_icons/sensorsTests/distanceTest.md)
 
 
 
 
-# 5 
+## les6 : site vechiles
 
 הקבוצה תלמד כיצד ארכיאולוגים
 מטפלים בחפצים ומזיזים אותם באתר
 חפירות.
 
-* חקר כלי רכב המשמשים באתרי חפירות
+חקר כלי רכב המשמשים באתרי חפירות
 
-```
-האם תוכלו לשנות את הרובוט כך שיסע עם ארבעה גלגלים?
-האם תוכלו לבנות משאית שתעביר חומר רב מאתר החפירות?
-כיצד תוכלו לתכנת את הרובוט שלכם כך שיעצור על אחד מהחפצים?
-```
-
-###  basic
+###  🔨 basic
 * [Arctic Ride](https://education.lego.com/en-us/lessons/spikeessential-great-adventures/spikeessential-arctic-ride/)
     * change to go backward 
     * update the model to used on site
     * try : שהדגם ינוע בין שני החפצים שבחרתם. נסו לעצור את הדגם על אחד החפצים. 
 
-### advanced: דגם חפירות
-* ??? TODO
+### 🔨🔨 advanced: דגם חפירות
+
+* build site vehicle
 
 
+Archaeological site vehicles are broadly divided into two categories: 
+* those used for fieldwork (like sturdy 4x4 vehicles and specialized minivans) 
+* robotic systems for surveying and excavation,
+    * Unmanned Aerial Vehicles (UAVs) 
+    * Remotely Operated Vehicles (ROVs)
 
 ```
+
+האם תוכלו לשנות את הרובוט כך שיסע עם ארבעה גלגלים?
+האם תוכלו לבנות משאית שתעביר חומר רב מאתר החפירות?
+כיצד תוכלו לתכנת את הרובוט שלכם כך שיעצור על אחד מהחפצים?
+
+
 על הקבוצה לתרגל את מיקום הרובוט כך שיגיע למיקום מסוים על שטיח המשחק.
 אתם יכולים להציב מכשול על שטיח המשחק כדי לאתגר את הקבוצה לתכנת את הרובוט שלה להסתובב.
 ```
 
+----
+
+אתגר1 בין קבוצתי: העברת משקל רב ביותר
+
+----
 
 
 
 
-# 6
+
+## les7 : tools for archeologists
+
 הקבוצה תבנה כלים בהם משתמשים ארכיאולוגים באתרי חפירות
 
 ```
 אילו כלים נדרשים לחפירה? אילו כלים נדרשים לתיעוד או לחקר חפצים?
-
-???
-להמציא כלי חדש בלגו חופשי
-???
-
 ```
 
-### build activity מחפשי אותות
+🔨 build : להמציא כלי חדש בלגו חופשי
 
-```
+* talk about the concept of radar for next lesson
+
+## les8 : radar
+
 מהו מכ"מ
-תכנות דגם המכ”ם
-```
 
-* build:
+🔨 basic build activity מחפשי אותות
 
-![alt text](image-2.png)  ?? TODO : spike updated instructions
+![alt text](image-2.png)  
+
+???TODO??? : spike updated instructions
+
+🔨🔨 advanced 
+* build the basic model
+* combine distance sensor and color sensor to find objects on the field
 
 
+----
 
+אתגר2 בין קבוצתי: חיaפוש אובייקט ידוע במתאר לא ידוע ללא מפה
 
-# 7
+----
+
+## les9: professions 
+
 הקבוצה תלמד על מקצועות הקשורים לארכיאולוגיה
-* [list of proffesions](./professions.md)
+* [list of professions](./professions.md)
 ```
 לאילו מקומות נשלחים חפצים כדי שאנשים יוכלו ללמוד אותם?
 אילו מקצועות תומכים בעבודתם של ארכיאולוגים?
 
 בחרו במקצוע המעניין אתכם. איזה סוג של הכשרה נדרשת כדי לעסוק בו? 
-באילו כליםמ שתמשים במקצוע זה?
+באילו כלים משתמשים במקצוע זה?
 
 ```
 
-* עוזרי ההיסטוריה
-* חקר מקצועות ארכיאולוגיה
 
-
-### build: תכנות דגם אתר החפירות
+### 🔨 build: תכנות דגם אתר החפירות
 * add electronics to the model from kit 2+5:
 
-![alt text](image-4.png)  ?? TODO : spike updated instructions
+![alt text](image-4.png)  
+??? TODO ??? spike updated instructions
 
 * run the sw 
     * control speed
@@ -275,9 +270,10 @@
 
 
 
+## les10 : preapre for event
+* do הדגם הקבוצתי
+* do הפוסטר הקבוצתי
+* do הכנה לאירוע
 
 
-# les : preapre for event
-* הדגם הקבוצתי
-* הפוסטר הקבוצתי
-* הכנה לאירוע
+
