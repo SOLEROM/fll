@@ -108,9 +108,8 @@
 קבוצתכם כיצד השתמשו בהם.
 ```
 
-* 🔨🔨 [arms](../200_subs/arms/readme.md) 
-  * NEW control each engine in word blocks 
-
+* 🔨[simple arms](../301_primeUnits/03_cleanUp/readme.md)
+* 🔨🔨 [complicate arms](../200_subs/arms/readme.md) 
 
 
 
