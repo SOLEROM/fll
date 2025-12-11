@@ -28,7 +28,7 @@
 
 ├── [200_subs](./200_subs/readme.md)
 
-├── [201_transmiosions](./201_transmissions/readme.md)
+├── [201_transmiosions](./201_transmissioalt textns/readme.md)
 
 ├── [202_driving](./202_driving/readme.md)
 
