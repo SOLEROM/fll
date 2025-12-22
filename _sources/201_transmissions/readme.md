@@ -21,3 +21,7 @@
 
 ## speed car
 [ ![](./speedCar1/image.png) ](./speedCar1/readme.md)
+
+## torque example 1
+
+[ ![](./torq1/image-2.png) ](./torq1/readme.md)
