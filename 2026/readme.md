@@ -253,6 +253,11 @@ Archaeological site vehicles are broadly divided into two categories:
 ```
 
 
+### concepts builds
+
+* [color sensor area](./colSenDemo.md)
+
+
 ### 🔨 build: תכנות דגם אתר החפירות
 * add electronics to the model from kit 2+5:
 
